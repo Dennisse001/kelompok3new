@@ -2,6 +2,7 @@
 
 use App\Http\Controllers\AdminController;
 use App\Http\Controllers\ProfileController;
+use App\Http\Controllers\ProductController;
 use Illuminate\Support\Facades\Route;
 
 /*
@@ -41,11 +42,20 @@ Route::get('/about', function () {
     return view('utama.about');
 });
 
-// Route Shop
+// Route Shop dan Product
 
 Route::get('/shop', function () {
     return view('utama.shop');
 });
+
+Route::get('/product/detail', [ProductController::class, 'product'])->name('product.productdetail');
+
+// Route Contact
+
+Route::get('/contact', function () {
+    return view('utama.contact');
+});
+
 
 // Route Blog
 

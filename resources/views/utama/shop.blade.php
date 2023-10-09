@@ -112,7 +112,7 @@
                                             </div>
                                         </div>
                                         <div class="popular-caption">
-                                         <h3><a href="product_details.html">Knitted Jumper</a></h3>
+                                         <h3><a href="/product/detail">Knitted Jumper</a></h3>
                                          <div class="rating mb-10">
                                             <i class="fas fa-star"></i>
                                             <i class="fas fa-star"></i>
@@ -134,7 +134,7 @@
                                         </div>
                                     </div>
                                     <div class="popular-caption">
-                                     <h3><a href="product_details.html">Knitted Jumper</a></h3>
+                                     <h3><a href="/product/detail">Knitted Jumper</a></h3>
                                      <div class="rating mb-10">
                                         <i class="fas fa-star"></i>
                                         <i class="fas fa-star"></i>
@@ -156,7 +156,7 @@
                                     </div>
                                 </div>
                                 <div class="popular-caption">
-                                 <h3><a href="product_details.html">Knitted Jumper</a></h3>
+                                 <h3><a href="/product/detail">Knitted Jumper</a></h3>
                                  <div class="rating mb-10">
                                     <i class="fas fa-star"></i>
                                     <i class="fas fa-star"></i>
@@ -178,7 +178,7 @@
                                 </div>
                             </div>
                             <div class="popular-caption">
-                             <h3><a href="product_details.html">Knitted Jumper</a></h3>
+                             <h3><a href="/product/detail">Knitted Jumper</a></h3>
                              <div class="rating mb-10">
                                 <i class="fas fa-star"></i>
                                 <i class="fas fa-star"></i>
@@ -200,7 +200,7 @@
                             </div>
                         </div>
                         <div class="popular-caption">
-                         <h3><a href="product_details.html">Knitted Jumper</a></h3>
+                         <h3><a href="/product/detail">Knitted Jumper</a></h3>
                          <div class="rating mb-10">
                             <i class="fas fa-star"></i>
                             <i class="fas fa-star"></i>
@@ -222,7 +222,7 @@
                         </div>
                     </div>
                     <div class="popular-caption">
-                     <h3><a href="product_details.html">Knitted Jumper</a></h3>
+                     <h3><a href="/product/detail">Knitted Jumper</a></h3>
                      <div class="rating mb-10">
                         <i class="fas fa-star"></i>
                         <i class="fas fa-star"></i>
@@ -244,7 +244,7 @@
                     </div>
                 </div>
                 <div class="popular-caption">
-                 <h3><a href="product_details.html">Knitted Jumper</a></h3>
+                 <h3><a href="/product/detail">Knitted Jumper</a></h3>
                  <div class="rating mb-10">
                     <i class="fas fa-star"></i>
                     <i class="fas fa-star"></i>
@@ -266,7 +266,7 @@
                 </div>
             </div>
             <div class="popular-caption">
-             <h3><a href="product_details.html">Knitted Jumper</a></h3>
+             <h3><a href="/product/detail">Knitted Jumper</a></h3>
              <div class="rating mb-10">
                 <i class="fas fa-star"></i>
                 <i class="fas fa-star"></i>
