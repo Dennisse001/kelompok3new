@@ -8,11 +8,11 @@
                    <div class="single-footer-caption mb-30">
                       <!-- logo -->
                       <div class="footer-logo mb-35">
-                       <a href="index.html"><img src="assets/img/logo/logo2_footer.png" alt=""></a>
+                       <a href="index.html"><img src="{{ asset("assets/images/logo-light.png") }}" style="height: 30%; width:200px "alt=""></a>
                    </div>
                    <div class="footer-tittle">
                        <div class="footer-pera">
-                           <p>Suspendisse varius enim in eros elementum tristique. Duis cursus, mi quis viverra ornare, eros dolor interdum nulla.</p>
+                           <p>Sualku adalah ide bisnis penjualan online yang kita kembangan untuk di Indonesia,yang berdomisil asli di Kota Malang.</p>
                        </div>
                    </div>
                    <!-- social -->
@@ -29,9 +29,9 @@
             <div class="footer-tittle">
                 <h4>Quick links</h4>
                 <ul>
-                    <li><a href="#">Image Licensin</a></li>
-                    <li><a href="#">Style Guide</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Home</a></li>
+                    <li><a href="#">Product</a></li>
+                    <li><a href="#">Contact</a></li>
                 </ul>
             </div>
         </div>
@@ -41,21 +41,9 @@
             <div class="footer-tittle">
                 <h4>Shop Category</h4>
                 <ul>
-                    <li><a href="#">Image Licensin</a></li>
-                    <li><a href="#">Style Guide</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
-                </ul>
-            </div>
-        </div>
-    </div>
-    <div class="col-xl-2 col-lg-2 col-md-4 col-sm-4">
-        <div class="single-footer-caption mb-50">
-            <div class="footer-tittle">
-                <h4>Pertners</h4>
-                <ul>
-                    <li><a href="#">Image Licensin</a></li>
-                    <li><a href="#">Style Guide</a></li>
-                    <li><a href="#">Privacy Policy</a></li>
+                    <li><a href="#">Jenis Produk</a></li>
+                    <li><a href="#">List Produk</a></li>
+                    <li><a href="#">Privasi</a></li>
                 </ul>
             </div>
         </div>
@@ -63,11 +51,11 @@
     <div class="col-xl-2 col-lg-3 col-md-4 col-sm-4">
         <div class="single-footer-caption mb-50">
             <div class="footer-tittle">
-                <h4>Get in touch</h4>
+                <h4>CONTACT</h4>
                 <ul>
-                    <li><a href="#">(89) 982-278 356</a></li>
-                    <li><a href="#">demo@colorlib.com</a></li>
-                    <li><a href="#">67/A, Colorlib, Green road, NYC</a></li>
+                    <li><a href="#">(62) 868-659-1590</a></li>
+                    <li><a href="#">sualku@gmail.com</a></li>
+                    <li><a href="#">SMK Negeri 8 Malang</a></li>
                 </ul>
             </div>
         </div>
@@ -83,7 +71,7 @@
                <div class="col-xl-12 ">
                    <div class="footer-copy-right text-center">
                        <p><!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-                          Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
+                          Copyright &copy;<script>document.write(new Date().getFullYear());</script> SUALKU <i class="fa fa-heart" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
                           <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. --></p>
                       </div>
                   </div>
