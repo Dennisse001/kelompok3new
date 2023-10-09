@@ -34,3 +34,25 @@ require __DIR__.'/auth.php';
 Route::middleware(['auth', 'role:admin'])->group(function () {
     Route::get('/admin/dashboard', [AdminController::class, 'admindashboard'])->name('dash.admin');
 });
+
+// Route About
+
+Route::get('/about', function () {
+    return view('utama.about');
+});
+
+// Route Shop
+
+Route::get('/shop', function () {
+    return view('utama.shop');
+});
+
+// Route Blog
+
+Route::get('/blog', function () {
+    return view('utama.blog');
+});
+
+Route::get('/blogdetails', function () {
+    return view('utama.blogdetail');
+});
